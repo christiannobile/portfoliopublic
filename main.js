@@ -21,3 +21,17 @@ var nav = document.getElementById('nav');
             nav.style.top = 100;
           }
        }
+
+       ScrollReveal().reveal('#work');
+       ScrollReveal().reveal('.workSection');
+       ScrollReveal().reveal('.listProjects');
+       ScrollReveal().reveal('.line');
+       ScrollReveal().reveal('.text');
+       ScrollReveal().reveal('.projectTitle');
+       ScrollReveal().reveal('.projectText');
+       ScrollReveal().reveal('.imgDate');
+       ScrollReveal().reveal('.date');
+       ScrollReveal().reveal('#contact');
+       ScrollReveal().reveal('.social');
+       ScrollReveal().reveal('.link');
+       
