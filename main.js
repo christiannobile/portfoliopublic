@@ -31,7 +31,7 @@ var nav = document.getElementById('nav');
        ScrollReveal().reveal('.projectText');
        ScrollReveal().reveal('.imgDate');
        ScrollReveal().reveal('.date');
-       ScrollReveal().reveal('#contact');
+       ScrollReveal().reveal('#contactTitle');
+       ScrollReveal().reveal('.contact');
        ScrollReveal().reveal('.social');
        ScrollReveal().reveal('.link');
-       
