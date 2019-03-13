@@ -10,7 +10,7 @@ var nav = document.getElementById('nav');
 
        window.onscroll = function () {
 
-         if(window.pageYOffset > 550){
+         if(window.pageYOffset > 525){
 
           nav.style.position = "fixed";
           nav.style.top = 0;
