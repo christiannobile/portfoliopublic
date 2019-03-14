@@ -9,7 +9,7 @@ html {
 
 body {
   font-family: 'Helvetica', 'Arial', 'Open Sans', sans-serif;
-  background-color: yellow;
+  /* background-color: yellow; */
 }
 
 .container {
@@ -208,7 +208,7 @@ h1 {
 /* Tablet */
 @media screen and (max-width: 992px) {
   body {
-    background-color: rgb(34, 184, 164);
+    /* background-color: rgb(34, 184, 164); */
     font-size: 0.75rem;
     padding-right: 1rem;
     padding-left: 1rem;
@@ -251,7 +251,7 @@ h1 {
 
 @media screen and (max-width: 600px) {
   body {
-    background-color: orange;
+    /* background-color: orange; */
     font-size: 0.55rem;
     padding-right: 1rem;
     padding-left: 1rem;
